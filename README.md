@@ -1,16 +1,7 @@
-# battery
+# MOBILE BATTERY DESIGN
 
-A new Flutter project.
+It's a simple mobile battery ui compoent.
 
-## Getting Started
+# PREVIEW 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/35997819/152866251-39ad0021-8735-4c9b-8488-7b5ceeb9dc16.png" data-canonical-src="https://user-images.githubusercontent.com/35997819/152866251-39ad0021-8735-4c9b-8488-7b5ceeb9dc16.png" width="331" height="716" />
